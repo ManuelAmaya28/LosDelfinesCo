@@ -1,0 +1,85 @@
+1-
+{
+    "nombre": "Garrafón de Agua Purificada - 20 lts",
+    "descripcion": "Relleno de garrafón con 20 lts de agua purificada",
+    "precio": 25,
+    "stock": 99,
+    "categorias_id":
+}
+
+ 2-
+{
+    "nombre": "Galón de Agua - 5 lts",
+    "descripcion": "Galón de 5 lts con agua purificada(Envase desechable)",
+    "precio": 23,
+    "stock": 99,
+    "categorias_id":
+}
+3-
+{
+    "nombre": "Pack 6 pzs de 1lt de agua purficada",
+    "descripcion": "Paquete con 6 botellas de 1 lt con agua purificada (Envases desechable)",
+    "precio": 39,
+    "stock": 99,
+    "categorias_id":
+}
+
+4-
+{
+    "nombre": "Pack 28 pzs de 500ml de agua purficada",
+    "descripcion": "Paquete con 28 botellas de 500ml con agua purificada (Envases desechable)",
+    "precio": 75,
+    "stock": 99,
+    "categorias_id":
+}
+
+5-
+{
+    "nombre": "Filtro de agua portatil",
+    "descripcion": "Filtro de agua potable para insumo",
+    "precio": 139,
+    "stock": 99,
+    "categorias_id":
+}
+
+6-
+{
+    "nombre": "Purificador de agua doméstico",
+    "descripcion": "Purificador de agua doméstico con Ósmosis inversa, Luz ultravioleta, suavizadores y filtros",
+    "precio": 3,999,
+    "stock": 99,
+    "categorias_id":
+}
+7-
+{
+    "nombre": "Dispensador de agua clásico",
+    "descripcion": "Dispensador de agua Clásico de cerámica elegante",
+    "precio": 169.99,
+    "stock": 99,
+    "categorias_id":
+}
+8-
+{
+    "nombre": "Dispensador de agua eléctrico",
+    "descripcion": "Dispensador eléctrico portátil de agua con batería recargable integrada",
+    "precio": 149.99,
+    "stock": 99,
+    "categorias_id":
+}
+9-
+{
+    "nombre": "Dispensador de agua fría y caliente",
+    "descripcion": "Dispensador de agua fría y caliente con temperatura mínima de 3°C y máxima de 85°C",
+    "precio": 1300,
+    "stock": 99,
+    "categorias_id":
+}
+
+10-
+{
+    "nombre": "Botellón pet plástico 20lts",
+    "descripcion": "Botellón PET plástico de 20 lts de capacidad retornable.",
+    "precio": 120,
+    "stock": 99,
+    "categorias_id":
+}
